@@ -1,8 +1,8 @@
-# electron-quick-start
+# electron-skeleton
 
 **Clone and run for a quick way to see Electron in action.**
 
-This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation.
+This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation. It is combined with the Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development (http://www.getskeleton.com)
 
 **Use this app along with the [Electron API Demos](http://electron.atom.io/#get-started) app for API code examples to help you get started.**
 
@@ -20,9 +20,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/fvorwerk/electron-skeleton
 # Go into the repository
-cd electron-quick-start
+cd electron-skelton
 # Install dependencies
 npm install
 # Run the app
@@ -39,7 +39,10 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 - [electron/simple-samples](https://github.com/electron/simple-samples) - small applications with ideas for taking them further
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - an Electron app that teaches you how to use Electron
 - [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
+- [dhg/Skeleton](https://github.com/dhg/Skeleton) - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
+
 
 ## License
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
+- [Skeleton: The MIT License (MIT)](LICENSE.md)
+- [electron-quick-start: CC0 1.0 (Public Domain)](LICENSE.md)
